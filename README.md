@@ -11,13 +11,13 @@ Activate the virtual environment by running the following commands:
 
 For Windows:
 
-cd my_env\Scripts
+cd env\Scripts
 
 activate
 
 For macOS/Linux:
 
-source my_env/bin/activate
+source env/bin/activate
 
 ### 3. Install Required Packages
 Change the directory to the project root where requirements.txt is located, and install the necessary packages:
